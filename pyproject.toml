@@ -1,0 +1,9 @@
+[project]
+name = "printing-optimization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ortools>=9.11.4210",
+]
